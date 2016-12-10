@@ -1,4 +1,4 @@
-# lokala-s60-sms-export-humanize-datetime
+# sms-export.py for PyS60 and date humanizer from original Lokala.org Kristoffer Nyber work
 
 ## sms-export.py
 
